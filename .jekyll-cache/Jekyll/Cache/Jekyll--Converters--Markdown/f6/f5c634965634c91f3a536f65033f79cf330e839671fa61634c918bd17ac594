@@ -1,4 +1,8 @@
-I"<p>If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:</p>
+I"<h1 id="标题1">标题1</h1>
+<h2 id="标题11">标题1.1</h2>
+<h3 id="标题112">标题1.1.2</h3>
+
+<p>If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:</p>
 
 <p>You may want to <a href="https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration">config the site</a> or <a href="https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts">writing a post</a> next. Please feel free to <a href="https://github.com/kitian616/jekyll-TeXt-theme/issues">create an issue</a> or <a href="mailto:kitian616@outlook.com">send me email</a> if you have any questions.</p>
 
@@ -6,7 +10,10 @@
 
 <hr />
 
+<h1 id="标题2">标题2</h1>
+<h2 id="标题21">标题2.1</h2>
 <p>If you like TeXt, don’t forget to give me a star. :star2:</p>
-
+<h2 id="标题22">标题2.2</h2>
+<h3 id="标题221">标题2.2.1</h3>
 <p><a href="https://github.com/kitian616/jekyll-TeXt-theme/"><img src="https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&amp;style=social" alt="Star This Project" /></a></p>
 :ET
